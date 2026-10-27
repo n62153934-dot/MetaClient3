@@ -2,7 +2,7 @@ package com.example;
 
 import net.fabricmc.api.ModInitializer;
 
-public class ExampleMod implements ModInitializer {
+public class MetaClient3 implements ModInitializer {
     public static final String MOD_ID = "metaclient3";
     
     @Override
